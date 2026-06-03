@@ -1,9 +1,13 @@
 ---
 title: "Integral. Výpočet plochy pod krivkou"
 author: "Daniil Haidukevich"
+date: "2026-04-26"
 format:
-  dashboard:
-    theme: cerulean 
+  html:
+    toc: true
+    toc-location: left
+  pdf:
+    toc: true
 ---
 
 # Úvod
